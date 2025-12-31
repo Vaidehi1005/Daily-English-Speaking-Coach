@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinguistAI - English Speaking Coach",
+  "description": "A professional English speaking coach that listens to your speeches and provides real-time feedback on pronunciation, grammar, and fluency using Gemini's native audio capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
